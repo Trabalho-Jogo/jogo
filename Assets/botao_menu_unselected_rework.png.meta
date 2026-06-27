@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: c4ef4d6540f9dd04ba5fe980e198c79f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4988849944592243451
+    second: botao_menu_unselected_rework_0
+  - first:
+      213: 2244473759470486219
+    second: botao_menu_unselected_rework_1
+  - first:
+      213: 7962667018669618358
+    second: botao_menu_unselected_rework_2
+  - first:
+      213: 8020510695139556278
+    second: botao_menu_unselected_rework_3
+  - first:
+      213: -7638617022392505613
+    second: botao_menu_unselected_rework_4
+  - first:
+      213: 7188394113891496645
+    second: botao_menu_unselected_rework_5
+  - first:
+      213: -8742286468737850747
+    second: botao_menu_unselected_rework_6
+  - first:
+      213: -5691746360311763891
+    second: botao_menu_unselected_rework_7
+  - first:
+      213: 7451305358204070668
+    second: botao_menu_unselected_rework_8
+  - first:
+      213: 1404675244431632222
+    second: botao_menu_unselected_rework_9
+  - first:
+      213: 6785553408965194259
+    second: botao_menu_unselected_rework_10
+  - first:
+      213: -8455749459158761172
+    second: botao_menu_unselected_rework_11
+  - first:
+      213: -5613224335080565632
+    second: botao_menu_unselected_rework_12
+  - first:
+      213: 4100215374254508366
+    second: botao_menu_unselected_rework_13
+  - first:
+      213: -5063951721140671099
+    second: botao_menu_unselected_rework_14
+  - first:
+      213: 1072584998578230931
+    second: botao_menu_unselected_rework_15
+  - first:
+      213: 5759367209106759186
+    second: botao_menu_unselected_rework_16
+  - first:
+      213: -3001796979074421432
+    second: botao_menu_unselected_rework_17
+  - first:
+      213: 3377776400090246569
+    second: botao_menu_unselected_rework_18
+  - first:
+      213: 5468277818839281387
+    second: botao_menu_unselected_rework_19
+  - first:
+      213: 8389585310432352323
+    second: botao_menu_unselected_rework_20
+  - first:
+      213: -7544225413918124594
+    second: botao_menu_unselected_rework_21
+  - first:
+      213: -7965433431740773582
+    second: botao_menu_unselected_rework_22
+  - first:
+      213: -582757285856804477
+    second: botao_menu_unselected_rework_23
+  - first:
+      213: 8485433283692360760
+    second: botao_menu_unselected_rework_24
+  - first:
+      213: 5750632796316808402
+    second: botao_menu_unselected_rework_25
+  - first:
+      213: -7320547265285056096
+    second: botao_menu_unselected_rework_26
+  - first:
+      213: 8551366265952774560
+    second: botao_menu_unselected_rework_27
+  - first:
+      213: 5457452991221389137
+    second: botao_menu_unselected_rework_28
+  - first:
+      213: -6078071703934239459
+    second: botao_menu_unselected_rework_29
+  - first:
+      213: 3692203165177126477
+    second: botao_menu_unselected_rework_30
+  - first:
+      213: -2915845988199433177
+    second: botao_menu_unselected_rework_31
+  - first:
+      213: -4781753975750485408
+    second: botao_menu_unselected_rework_32
+  - first:
+      213: 1513218923426453095
+    second: botao_menu_unselected_rework_33
+  - first:
+      213: 4902015938600973738
+    second: botao_menu_unselected_rework_34
+  - first:
+      213: 71454044258270746
+    second: botao_menu_unselected_rework_35
+  - first:
+      213: -4543594060617028355
+    second: botao_menu_unselected_rework_36
+  - first:
+      213: 4993265766268757732
+    second: botao_menu_unselected_rework_37
+  - first:
+      213: 4171309595485712169
+    second: botao_menu_unselected_rework_38
+  - first:
+      213: 5015133131230653519
+    second: botao_menu_unselected_rework_39
+  - first:
+      213: 3252056396709098029
+    second: botao_menu_unselected_rework_40
+  - first:
+      213: -9085013288872112807
+    second: botao_menu_unselected_rework_41
+  - first:
+      213: -2229522776001571774
+    second: botao_menu_unselected_rework_42
+  - first:
+      213: -8893707553564637033
+    second: botao_menu_unselected_rework_43
+  - first:
+      213: -2686343622412817139
+    second: botao_menu_unselected_rework_44
+  - first:
+      213: 5768345895387558044
+    second: botao_menu_unselected_rework_45
+  - first:
+      213: 8419041697619169068
+    second: botao_menu_unselected_rework_46
+  - first:
+      213: 9097217484655454798
+    second: botao_menu_unselected_rework_47
+  - first:
+      213: 5480682241164011728
+    second: botao_menu_unselected_rework_48
+  - first:
+      213: 3183743051667931011
+    second: botao_menu_unselected_rework_49
+  - first:
+      213: 4026124810992087306
+    second: botao_menu_unselected_rework_50
+  - first:
+      213: -8772744354685320596
+    second: botao_menu_unselected_rework_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: botao_menu_unselected_rework_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 768
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052ade486b04cab0800000000000000
+      internalID: -4988849944592243451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_menu_unselected_rework_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 768
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc28ce41ef8f52f10800000000000000
+      internalID: 2244473759470486219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_menu_unselected_rework_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b475882773118e60800000000000000
+      internalID: 7962667018669618358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_menu_unselected_rework_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb3059bf39e4f60800000000000000
+      internalID: 8020510695139556278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fd6ec7852d4e524f8795f4aba54e66d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":768.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      botao_menu_unselected_rework_0: -4988849944592243451
+      botao_menu_unselected_rework_1: 2244473759470486219
+      botao_menu_unselected_rework_2: 7962667018669618358
+      botao_menu_unselected_rework_3: 8020510695139556278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
